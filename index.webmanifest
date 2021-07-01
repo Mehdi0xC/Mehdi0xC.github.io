@@ -2,8 +2,8 @@
   "name": "mehdi0xc home",
   "short_name": "mehdi0xc home",
   "lang": "en-us",
-  "theme_color": "rgb(18, 120, 192)",
-  "background_color": "rgb(18, 120, 192)",
+  "theme_color": "rgb(100, 0, 0)",
+  "background_color": "rgb(100, 0, 0)",
   "icons": [{
     "src": "/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
